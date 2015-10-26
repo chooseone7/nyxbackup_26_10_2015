@@ -1,0 +1,39 @@
+Return-path: <>
+Envelope-to: nyxelectric@fox.vivawebhost.com
+Delivery-date: Thu, 07 May 2015 20:01:29 -0400
+Received: from mailnull by fox.vivawebhost.com with local (Exim 4.85)
+	id 1YqVjN-0003Wo-Ft
+	for nyxelectric@fox.vivawebhost.com; Thu, 07 May 2015 20:01:29 -0400
+X-Failed-Recipients: mail.nyxelectric.com@fox.vivawebhost.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@fox.vivawebhost.com>
+To: nyxelectric@fox.vivawebhost.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YqVjN-0003Wo-Ft@fox.vivawebhost.com>
+Date: Thu, 07 May 2015 20:01:29 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  mail.nyxelectric.com@fox.vivawebhost.com
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <nyxelectric@fox.vivawebhost.com>
+Received: from nyxelectric by fox.vivawebhost.com with local (Exim 4.85)
+	(envelope-from <nyxelectric@fox.vivawebhost.com>)
+	id 1YqVjN-0003Wg-81
+	for mail.nyxelectric.com@fox.vivawebhost.com; Thu, 07 May 2015 20:01:29 -0400
+To: mail.nyxelectric.com@fox.vivawebhost.com
+Subject: Correo de pruebas
+X-PHP-Script: www.nyxelectric.com/sql/enviar-email.php for 181.115.129.80
+Message-Id: <E1YqVjN-0003Wg-81@fox.vivawebhost.com>
+From: nyxelectric@fox.vivawebhost.com
+Date: Thu, 07 May 2015 20:01:29 -0400
+
+mail.nyxelectric.com
+
+mensaje desde webmail

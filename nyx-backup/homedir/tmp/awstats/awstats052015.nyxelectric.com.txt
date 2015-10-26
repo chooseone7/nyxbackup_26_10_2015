@@ -1,0 +1,514 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201505 will be lost/reset.
+# Last config file used to build this data file was /home/nyxelectric/tmp/awstats/awstats.nyxelectric.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2680                
+POS_VISITOR 15979               
+POS_DAY 17470               
+POS_DOMAIN 3478                
+POS_LOGIN 3814                
+POS_ROBOT 3969                
+POS_WORMS 4353                
+POS_EMAILSENDER 4484                
+POS_EMAILRECEIVER 4627                
+POS_SESSION 18194               
+POS_SIDER 18402               
+POS_FILETYPES 4762                
+POS_DOWNLOADS 5063                
+POS_OS 5111                
+POS_BROWSER 5309                
+POS_SCREENSIZE 5834                
+POS_UNKNOWNREFERER 5908                
+POS_UNKNOWNREFERERBROWSER 6073                
+POS_ORIGIN 6155                
+POS_SEREFERRALS 6295                
+POS_PAGEREFS 6450                
+POS_SEARCHWORDS 6628                
+POS_KEYWORDS 6780                
+POS_MISC 2344                
+POS_ERRORS 6839                
+POS_CLUSTER 3670                
+POS_SIDER_404 6970                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150601025514 23 4290 11997226546715
+FirstTime 0
+LastTime 20150530120636
+LastUpdate 20150601085852 23 0 22 0 0
+TotalVisits 80                  
+TotalUnique 31                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 37                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 13 28 99674
+1 0 0 0 18 32 84323
+2 3 55 1251995 6 8 22093
+3 0 0 0 6 17 40394
+4 2 2 13346 20 27 68537
+5 0 0 0 4 6 11011
+6 0 0 0 8 20 52881
+7 7 32 1195580 12 33 59170
+8 32 126 2971324 31 51 229103
+9 345 1180 25828264 61 291 1196026
+10 284 725 14116066 33 209 284041
+11 216 605 9682443 39 240 342026
+12 149 606 14865679 27 146 804241
+13 118 334 3660889 44 120 404207
+14 92 650 8863250 26 40 214223
+15 115 431 8279145 85 142 582216
+16 84 273 16084404 23 125 210362
+17 79 424 8343771 14 54 508093
+18 98 123 1696982 15 96 147778
+19 12 59 1147235 11 19 127916
+20 18 21 168285 30 41 210611
+21 2 3 172728 14 16 110468
+22 6 86 1313627 29 36 182149
+23 5 24 149839 9 14 47064
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+bo 1639 5702 118962789
+us 17 42 677467
+ar 5 9 130290
+it 1 1 8865
+zz 1 1 8865
+fr 1 1 4460
+ro 1 1 4909
+gb 1 1 4481
+sa 1 1 2726
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 285 888120 20150531235943 0
+bot[\s_+:,\.\;\/\\-] 188 725315 20150531192702 0
+crawl 66 648721 20150531203030 0
+spider 40 194720 20150531184041 0
+robot 4 0 20150527054756 0
+googlebot\-image 1 85605 20150522191536 0
+curl 1 2726 20150507170901 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 2 111854 0 0
+css 924 1044758 0 0
+png 426 2301167 0 0
+ico 73 1645566 0 0
+otf 115 3875868 0 0
+php 143 352444 0 0
+html 1392 5257206 0 0
+jpg 1667 98185256 0 0
+js 901 3141218 0 0
+jpeg 18 3812537 0 0
+Unknown 15 43438 0 0
+gif 83 33540 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+blackberry 2 2
+linuxandroid 69 20
+winxp 1 1
+winlong 1 1
+winphone 6 2
+linux 29 11
+win7 5613 1620
+win2003 5 2
+Unknown 32 7
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+msie6.0 1 1
+blackberry 2 2
+chrome34.0.1847.137 1 1
+chrome28.0.1500.94 69 20
+chrome7.0.517.44 1 1
+firefox34.0 1 1
+msie8.0 14 3
+msie11.0 26 3
+chrome43.0.2357.81 1144 538
+chrome42.0.2311.90 32 4
+chrome39.0.2171.65 1 1
+firefox37.0 44 10
+msie7.0 5 2
+firefox14.0.1 9 9
+chrome42.0.2311.135 1676 446
+chrome37.0.2062.120 1 1
+firefox23.0 1 1
+chrome27.0.1453 19 1
+firefox3.6.3 1 1
+msie9.0 4 0
+chrome42.0.2311.152 1105 359
+firefox36.0 1 1
+firefox35.0 193 25
+chrome43.0.2357.65 1408 236
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(Android;_Mobile;_rv:37.0)_Gecko/37.0_Firefox/37.0 20150511073036
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 504 516
+From1 1 1
+From2 1 1
+From3 1 1
+From4 1160 5240
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 6 6834
+302 79 9888
+206 78 2277018
+404 1045 1199660
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 144
+/img/imgproductos/interiores/0563.JPG 24 http://www.nyxelectric.com/index.php
+/img/imgproductos/0649.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0308.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/L3024B.7WB.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/BR155.12w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0639.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0550.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0560.JPG 24 http://www.nyxelectric.com/index.php
+/img/imgproductos/0290.JPG 1 http://www.nyxelectric.com/
+/sql/altaproducto.php 4 http://www.nyxelectric.com/producto_abm.php
+/img/imgproductos/P9070.5W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/SP26wr.JPG 31 http://nyxelectric.com/
+/img/imgproductos/S15.30WB.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/5W.jpg 22 http://www.nyxelectric.com/index.php
+/img/imgproductos/0544.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0547.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0569.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0699.JPG 10 http://www.nyxelectric.com/
+/img/imgproductos/exteriores/0639.JPG 29 http://www.nyxelectric.com/
+/img/imgproductos/S15.45w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0646.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/SP12wr.JPG 1 http://www.nyxelectric.com/
+/css/grabbing.png 2 http://www.nyxelectric.com/css/nyx.carousel.css
+/img/imgproductos/N3024.5W.B.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/BS1106w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/BR110_6W.png 2 http://www.nyxelectric.com/
+/img/imgproductos/0288.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/BR225_30W.png 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/BR155.12w.JPG 11 http://www.nyxelectric.com/
+/img/imgproductos/T988.10W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0309.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0701.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0296.JPG 1 http://www.nyxelectric.com/
+/contactos.php 1 -
+/img/imgproductos/S1530WSL.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/T.30w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0549.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/L3024.18WB.JPG 1 http://www.nyxelectric.com/
+/wp-login.php 2 -
+/login 1 -
+/img/imgproductos/0295.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0577.JPG 23 http://www.nyxelectric.com/index.php
+/img/imgproductos/0292.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/BR300_40W.png 1 http://www.nyxelectric.com/
+/img/imgproductos/0526.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/B208.2w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/N3024.5W.SL.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0639.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0701.JPG 10 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0696.JPG 10 http://www.nyxelectric.com/
+/img/imgproductos/0557.JPG 2 http://nyxelectric.com/
+/img/imgproductos/interiores/0463.JPG 40 http://www.nyxelectric.com/index.php
+/img/imgproductos/R1w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/BR1106w.JPG 7 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0569.JPG 8 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0526.JPG 31 http://www.nyxelectric.com/index.php
+/img/imgproductos/html5p.jpg 7 http://www.nyxelectric.com/
+/img/imgproductos/tamanominimizado.png 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/B208.2w.JPG 10 http://www.nyxelectric.com/
+/CPANEL 2 -
+/img/imgproductos/R609.30w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/SP26wcuad.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0326.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0540.JPG 8 http://www.nyxelectric.com/
+/img/imgproductos/interiores/e27.7W.JPG 9 http://www.nyxelectric.com/
+/img/imgproductos/interiores/BR300_40W.png 11 http://www.nyxelectric.com/
+/img/imgproductos/B247.2w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0647.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/BR18024w.JPG 7 http://www.nyxelectric.com/
+/LOGIN 1 -
+/img/imgproductos/e27.png 7 http://www.nyxelectric.com/index.php
+/img/imgproductos/0283.JPG 33 http://www.nyxelectric.com/
+/img/imgproductos/mr16.png 2 http://www.nyxelectric.com/
+/img/imgproductos/e27.7W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/REF100w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0443.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0282.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/e27RGB.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0531.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/SP6wcuad.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/REF30W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0573.JPG 1 http://www.nyxelectric.com/
+/robots.txt 80 -
+/img/imgproductos/REF10W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/GRAD5w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0559.JPG 24 http://www.nyxelectric.com/index.php
+/img/imgproductos/interiores/0539.JPG 16 http://www.nyxelectric.com/
+/img/imgproductos/SP3wSL.JPG 43 http://www.nyxelectric.com/
+/img/imgproductos/0462.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/BR110_6W.png 16 http://www.nyxelectric.com/
+/img/imgproductos/BR18024w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/SP6w.JPG 32 http://nyxelectric.com/
+/img/imgproductos/0293.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0546.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0278.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/SPOT%20RIEL%2010W.jpg 3 http://www.nyxelectric.com/
+/img/gif/arrow-left.gif 153 http://www.nyxelectric.com/
+/img/imgproductos/SPOT_DE_RIEL_10W.jpg 2 http://www.nyxelectric.com/
+/img/imgproductos/0560.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0291.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/B247.4w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0531.JPG 30 http://www.nyxelectric.com/index.php
+/img/imgproductos/SP12wcuad.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0536.JPG 30 http://www.nyxelectric.com/index.php
+/img/imgproductos/0297.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/OJITO1W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0294.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0705.JPG 10 http://www.nyxelectric.com/
+/img/imgproductos/interiores/SP6wcuad.JPG 10 http://www.nyxelectric.com/
+/fonts/Philadelphian-Gothic.otf 3 http://www.nyxelectric.com/css/style.css
+/img/imgproductos/0705.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0287%20.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/REF50W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0540.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0373.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/t.20w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/B210.1W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/T996.10W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/BS300_50W.png 1 http://www.nyxelectric.com/
+/img/imgproductos/XB001.20W.JPG 1 http://www.nyxelectric.com/
+/img/recommendproduct2.png 4 http://www.nyxelectric.com/
+/img/imgproductos/Opcion%202%20nyx%20elctric.png 1 http://www.nyxelectric.com/
+/img/imgproductos/modelo%20de%20cajas.png 14 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0573.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0463.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0699.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0547.JPG 25 http://www.nyxelectric.com/index.php
+/img/imgproductos/grad3W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/B247.6W.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0551.JPG 2 http://nyxelectric.com/
+/img/imgproductos/interiores/REF100w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0536.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/Jellyfish.jpg 14 http://www.nyxelectric.com/
+/img/imgproductos//0463.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0289.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/BR1106w.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0696.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/interiores/BR225_30W.png 12 http://www.nyxelectric.com/
+/img/imgproductos/0559.JPG 2 http://nyxelectric.com/
+/img/imgproductos/0577.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/0558.JPG 2 http://nyxelectric.com/
+/img/imgproductos/interiores/0289.JPG 36 http://www.nyxelectric.com/
+/img/imgproductos/0563.JPG 1 http://www.nyxelectric.com/
+/img/imgproductos/BS18024w.JPG 1 http://www.nyxelectric.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 37
+190.181.12.141 1125 3673 76295175 20150529103757
+190.181.12.55 222 664 12546648 20150511182659
+190.181.12.87 87 301 9251570 20150513111836
+186.121.248.71 55 294 9308207 20150513175235
+186.121.248.207 53 257 3441056 20150514180039
+186.121.248.189 51 234 2947100 20150515182911
+181.115.129.80 11 58 1087163 20150507200732
+69.58.178.58 11 11 140554 20150517200016
+186.121.248.83 7 10 44320 20150530120636
+190.180.5.84 5 9 130290 20150511073036
+181.115.128.162 4 57 198794 20150524220309
+190.171.230.146 4 32 1287561 20150523221929
+181.115.129.101 3 27 1086900 20150507071110
+181.115.128.208 3 18 131145 20150525233958
+181.115.129.252 3 55 1251995 20150521020916
+186.121.248.85 3 3 8920 20150516114501
+38.100.21.68 2 5 66147 20150518195614
+190.104.18.212 2 6 18694 20150527232154
+181.115.129.157 2 2 4724 20150527200803
+181.115.129.44 2 3 9596 20150521083401
+200.58.191.84 2 8 43221 20150507130159
+54.166.95.224 1 1 16310 20150521160200
+78.93.119.5 1 1 2726 20150512151559
+94.23.217.201 1 1 4460 20150517202534
+188.164.131.120 1 1 8865 20150503172338
+157.55.39.218 0 1 6990 
+66.102.8.240 1 1 2726 20150507170902
+66.249.80.25 0 9 234446 
+23.254.201.85 1 1 2726 20150510143900
+23.95.43.111 1 1 4724 20150523163159
+109.163.234.2 1 1 4909 20150520190059
+157.55.39.142 0 1 7664 
+66.249.80.7 0 4 65506 
+104.155.44.36 1 1 8865 20150503041455
+66.249.80.16 0 5 90491 
+207.46.13.106 0 2 39183 
+185.66.250.80 1 1 4481 20150518040822
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20150503 2 2 17730 2
+20150505 8 32 28216 1
+20150506 12 12 32058 1
+20150507 106 357 7536240 5
+20150508 20 72 2003384 5
+20150509 54 207 4062672 1
+20150510 1 1 2726 1
+20150511 44 105 1624821 6
+20150512 1 1 2726 1
+20150513 142 595 18559777 2
+20150514 53 257 3441056 5
+20150515 51 234 2947100 4
+20150516 3 3 8920 2
+20150517 12 12 145014 2
+20150518 165 432 13004688 6
+20150519 55 102 215395 1
+20150520 34 230 3847172 6
+20150521 97 322 7748453 5
+20150522 18 116 555728 4
+20150523 70 376 10083688 4
+20150524 4 57 198794 1
+20150525 173 1082 17678939 2
+20150526 3 19 251986 3
+20150527 15 120 396305 4
+20150528 382 609 19708484 2
+20150529 137 396 5666023 2
+20150530 5 8 36757 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 13
+5mn-15mn 7
+30s-2mn 10
+2mn-5mn 5
+15mn-30mn 4
+0s-30s 37
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 1392 5257206 71 47
+/fonts/Philadelphian-Gothic.otf 115 3875868 0 18
+/index.php 69 212329 5 7
+/producto_abm.php 23 113144 1 1
+/sql/buscador.php 21 17057 0 2
+/cpanel 15 43438 3 5
+/sql/actualizar_producto.php 9 666 0 0
+/login.php 8 6752 0 0
+/sql/enviar-email.php 6 1182 0 0
+/control.php 6 1204 0 0
+/sql/altaproducto.php 1 110 0 0
+/fonts/Pecita.eot 1 69062 0 0
+/fonts/Chalet.eot 1 42792 0 0
+END_SIDER

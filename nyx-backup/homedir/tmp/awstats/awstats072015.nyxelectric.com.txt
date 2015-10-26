@@ -1,0 +1,506 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201507 will be lost/reset.
+# Last config file used to build this data file was /home/nyxelectric/tmp/awstats/awstats.nyxelectric.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2693                
+POS_VISITOR 13018               
+POS_DAY 16865               
+POS_DOMAIN 3464                
+POS_LOGIN 3839                
+POS_ROBOT 3994                
+POS_WORMS 4451                
+POS_EMAILSENDER 4582                
+POS_EMAILRECEIVER 4725                
+POS_SESSION 17569               
+POS_SIDER 17766               
+POS_FILETYPES 4860                
+POS_DOWNLOADS 5101                
+POS_OS 5149                
+POS_BROWSER 5408                
+POS_SCREENSIZE 6208                
+POS_UNKNOWNREFERER 6282                
+POS_UNKNOWNREFERERBROWSER 6755                
+POS_ORIGIN 6945                
+POS_SEREFERRALS 7084                
+POS_PAGEREFS 7239                
+POS_SEARCHWORDS 11406               
+POS_KEYWORDS 11592               
+POS_MISC 2357                
+POS_ERRORS 11695               
+POS_CLUSTER 3695                
+POS_SIDER_404 11797               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150801004530 19 4437 15348936010842
+FirstTime 20150701025652
+LastTime 20150731233557
+LastUpdate 20150801081414 19 0 18 0 0
+TotalVisits 112                 
+TotalUnique 94                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 97                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 3 98285 16 20 28453
+1 2 4 190644 30 39 274183
+2 4 4 16700 30 49 377732
+3 2 4 190644 26 39 495984
+4 2 3 95675 23 37 257262
+5 3 3 706 29 46 591478
+6 2 2 1026 36 42 82129
+7 4 26 1196977 31 46 149323
+8 2 3 95322 29 37 178348
+9 17 25 992291 32 58 75624
+10 14 20 706388 30 73 581275
+11 206 249 3158747 21 55 183349
+12 30 59 1262537 20 40 51767
+13 7 10 500228 30 47 143210
+14 45 99 4418590 20 80 237891
+15 13 23 213490 26 44 77536
+16 7 12 900668 18 29 28294
+17 26 42 768662 34 52 64344
+18 6 11 688616 38 61 186835
+19 3 3 6691 20 25 137377
+20 4 8 381288 25 35 139915
+21 4 6 191350 23 41 382738
+22 5 9 381288 33 49 502664
+23 4 6 408223 24 37 164532
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 237 254 1319954
+bo 155 350 14775523
+cn 9 11 193913
+ca 3 3 2256
+ar 2 4 190644
+de 2 2 706
+ua 1 2 95322
+jp 1 1 752
+br 1 2 95322
+tw 1 2 95322
+pa 1 2 95322
+gb 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+spider 317 421792 20150731192955 0
+googlebot 288 1014429 20150731233047 0
+bot[\s_+:,\.\;\/\\-] 126 2428038 20150731035040 0
+googlebot\-image 14 1163817 20150720184741 0
+robot 5 353 20150730201447 0
+crawl 2 274 20150731071446 0
+bingpreview 1 94969 20150711201836 0
+slurp 1 353 20150721214057 0
+netcraft 1 752 20150710213339 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 20 47372 0 0
+png 9 36807 0 0
+ico 3 67626 0 0
+otf 4 500112 0 0
+php 8 25893 0 0
+html 392 889455 0 0
+jpg 147 14863888 0 0
+js 36 402353 0 0
+Unknown 10 28845 0 0
+gif 5 2685 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linuxandroid 52 18
+winxp 12 7
+winlong 4 3
+winphone 2 1
+ios_iphone 15 8
+linux 3 3
+win7 117 60
+macosx 164 76
+win2003 1 1
+macosx9 4 4
+win8 9 5
+Unknown 226 215
+win8.1 15 8
+macosx8 2 1
+ios_ipad 8 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 39
+chrome37.0.2062.124 2 1
+msie6.0 1 1
+chrome43.0.2357.124 1 1
+chrome28.0.1500.94 19 11
+chrome39.0.2171.95 2 1
+chrome38.0.2125.111 3 2
+chrome31.0.1650.63 3 2
+firefox34.0 4 4
+chrome42.0.2311.111 2 1
+chrome31.0.1650.48 5 5
+msie8.0 3 3
+msie7.0 1 1
+chrome43.0.2357.93 2 1
+safari8.0 21 11
+msie9.0 7 6
+chrome42.0.2311.152 2 1
+chrome31.0.1650.59 2 1
+Unknown 32 22
+safari10.3.2.680 2 1
+firefox38.0 164 76
+chrome43.0.2357.132 8 4
+chrome38.0.2125.102 24 2
+chrome43.0.2357.130 8 4
+chrome44.0.2403.107 4 2
+msie11.0 61 25
+chrome36.0.1985.135 2 1
+chrome18.0.1025.133 1 1
+firefox33.0 2 1
+firefox39.0 26 14
+mozilla 192 192
+firefox1.0 1 1
+firefox37.0 2 1
+firefox14.0.1 2 2
+msie10.0 2 1
+firefox3.6.3 3 2
+chrome43.0.2357.134 12 6
+safari6.1 2 1
+firefox36.0 2 1
+safari 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Jakarta_Commons-HttpClient/3.1 20150719082558
+Mozilla/5.0_(compatible;_Attracta) 20150702114144
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.2.680_Mobile_Safari/537.35_ 20150714003553
+Python-urllib/3.4 20150721090302
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150722133612
+panscient.com 20150701174638
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Jakarta_Commons-HttpClient/3.1 20150719082558
+Python-urllib/3.4 20150721090302
+panscient.com 20150701174638
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 309 324
+From1 0 0
+From2 3 3
+From3 64 65
+From4 38 242
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 22
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as.html 19 19
+http://www.amarillas-bolivia.com/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as.html 10 11
+http://www.decoracion.gnb.com.bo/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as.html 5 5
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/170751/EREBUS-SRL.html 5 5
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/138142/ELECTRICIDAD-ULIX.html 5 5
+http://www.amarillas-bolivia.com/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/101366/SERVICIOS-T%C3%89CNICOS-Y-DE-INGEN%C3%8DERIA-=-STI-SRL..html 4 4
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/101364/LUMISAN.html 1 1
+http://www.amarillas-bolivia.com/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/164118/ROYAL-ARROW-LIGHTING-BOLIVIA-=-CALACOTO.html 1 1
+http://www.decoracion.gnb.com.bo/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/170751/NYX-ELECTRIC.html 1 1
+http://www.decoracion.gnb.com.bo/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/170751/NYX-BOLIVIA-IMPORT-EXPORT.html 1 1
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/170064/ECOLED-=-SAN-PEDRO.html 1 1
+http://www.amarillas-bolivia.com/Energia-y-electricidad/Iluminacion.-Luminarias-led,-focos-y-reflectores.-Viales,-industriales,-ornamentales,-residenciales,-publicas.-Parques,-campos-deportivos,-torres-y-columnas.html 1 1
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/170751/NYX-BOLIVIA-IMPORT-EXPORT.html 1 1
+http://energia.gnb.com.bo/Iluminacion.-Luminarias-led,-focos-y-reflectores.-Viales,-industriales,-ornamentales,-residenciales,-publicas.-Parques,-campos-deportivos,-torres-y-columnas/169572/AES-ILUMINACION.html 1 1
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/80880/INDUSTRIAS-ELECTROMEC%C3%81NICAS-FEMCO-SRL-=-DISTRIBUIDOR.html 1 1
+http://www.guiadenegocios-bo.com/guia/Energia-y-electricidad/Iluminacion.-Luminarias-led,-focos-y-reflectores.-Viales,-industriales,-ornamentales,-residenciales,-publicas.-Parques,-campos-deportivos,-torres-y-columnas/169606/ELECTRICIDAD-ULIX.html 1 1
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-ara%C3%B1as/170066/ECOLED-=-ACHUMANI.html 1 1
+http://whois.domaintools.com/nyxelectric.com 1 1
+http://www.gnb.com.bo/guia/Energia-y-electricidad/Iluminacion.-Luminarias-led,-focos-y-reflectores.-Viales,-industriales,-ornamentales,-residenciales,-publicas.-Parques,-campos-deportivos,-torres-y-columnas/170750/EREBUS-SRL.html 1 1
+http://www.gnb.com.bo/guia/Decoracion,-muebles-y-equipamiento/Iluminacion.-Lamparas,-luminarias,-focos,-reflectores,-leds,-pantallas,-arañas/170751/NYX-BOLIVIA-IMPORT-EXPORT.html 1 1
+http://www.energia.gnb.com.bo/Iluminacion.-Luminarias-led,-focos-y-reflectores.-Viales,-industriales,-ornamentales,-residenciales,-publicas.-Parques,-campos-deportivos,-torres-y-columnas.html 1 1
+http://energia.gnb.com.bo/Iluminacion.-Luminarias-led,-focos-y-reflectores.-Viales,-industriales,-ornamentales,-residenciales,-publicas.-Parques,-campos-deportivos,-torres-y-columnas.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+luminaria+led+nyx+en+santa+cruz 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+cruz 1
+led 1
+luminaria 1
+santa 1
+en 1
+nyx 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 2 2278
+404 231 265188
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/+a.largeHeight/a.newvaluewidth+ 1 -
+/img/imgproductos/tamanominimizado.png 1 -
+/robots.txt 124 -
+/cpnel 1 -
+/media/index.html 1 http://search.mail.com/web
+/admin.php 1 -
+/img/imgproductos/spot%20piso.jpg 1 -
+/img/imgproductos/IMG_0300%20(Copy).JPG 1 -
+/img/imgproductos/interiores/423_10w.JPG 2 -
+/img/imgproductos/interiores/0559.JPG 1 http://www.nyxelectric.com/
+/img/04.jpg 1 -
+/img/imgproductos/7W.JPG 1 -
+/js/+a.largeHeight/a.newvaluewidth+ 1 -
+/img/imgproductos/5W.jpg 1 -
+/css/pantallagrande.css 56 http://www.nyxelectric.com/
+/administrator/ 1 -
+/+b.largeWidth/b.currentZoomLevel+ 1 -
+/js/+a.largeHeight/a.newvalueheight+ 1 -
+/text/xml 1 -
+/img/imgproductos/exteriores/0639.JPG 14 http://www.nyxelectric.com/
+/a 2 -
+/xmlrpc.php 1 https://www.google.by/search
+/img/imgproductos/exteriores/REF10W.JPG 13 http://www.nyxelectric.com/
+/wp-login.php 1 -
+/img/03.jpg 1 -
+/+a.largeHeight/a.newvalueheight+ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 97
+66.11.12.232 190 190 594579 20150702114144
+190.181.12.63 53 119 3338628 20150703151207
+186.121.248.112 30 45 1134966 20150710143200
+71.187.219.210 20 30 196730 20150701174638
+186.121.248.12 16 57 2936165 20150702113305
+209.128.119.167 4 4 16700 20150701025652
+190.181.21.69 3 5 190644 20150728093514
+192.99.150.123 3 3 2256 20150722133613
+220.181.132.216 2 2 1504 20150723061423
+207.46.13.117 2 2 5939 20150701230706
+190.186.85.24 2 4 190644 20150711014937
+69.58.178.58 2 2 1504 20150717142900
+207.46.13.1 2 2 5926 20150702003625
+186.121.228.142 2 4 613950 20150706164232
+190.52.53.238 2 3 95322 20150708223715
+181.115.128.14 2 24 1195872 20150729075344
+190.129.127.147 2 4 190644 20150713222952
+190.186.205.157 1 2 95322 20150708173248
+216.69.191.241 1 1 752 20150710161839
+190.186.179.54 1 2 95322 20150730172936
+207.46.13.63 1 1 2963 20150701232343
+157.55.39.121 1 1 2976 20150701102424
+38.100.21.68 1 1 752 20150714190421
+101.199.108.57 1 1 353 20150723135950
+161.22.140.80 1 2 95322 20150711121218
+66.249.83.174 0 1 94969 
+200.13.152.13 1 2 95322 20150731183450
+14.126.34.234 1 2 95322 20150710044453
+52.0.89.236 1 1 274 20150706061249
+101.199.108.54 1 1 353 20150723215330
+200.110.48.124 1 2 95322 20150730165406
+181.114.122.176 1 2 95322 20150720105405
+190.129.2.6 1 2 306975 20150707230151
+211.23.203.67 1 2 95322 20150728035216
+181.177.158.187 1 2 95304 20150708120604
+150.70.188.169 1 1 752 20150716104311
+66.249.83.177 1 1 353 20150731181038
+190.181.12.154 1 2 95322 20150729134359
+181.115.128.186 1 2 95322 20150722220941
+201.222.108.187 1 2 306975 20150707182212
+179.150.208.147 1 2 95322 20150714003552
+200.87.164.10 1 2 95322 20150723173421
+200.87.77.178 1 2 95322 20150716104135
+181.114.120.189 1 2 17561 20150721143736
+220.181.132.194 1 1 353 20150723100851
+181.115.128.253 1 2 95322 20150708122237
+190.181.23.154 1 2 95322 20150721123521
+101.199.108.51 1 1 353 20150724073953
+181.114.120.185 1 2 95322 20150723170156
+190.34.220.91 1 2 95322 20150728121230
+161.22.134.128 1 2 95322 20150731233557
+190.186.119.158 1 2 95322 20150718202120
+5.100.158.2 1 1 0 20150719082558
+101.199.112.50 1 1 353 20150723185024
+190.104.20.165 1 2 95322 20150728090359
+181.115.129.178 1 2 95322 20150711210705
+200.87.212.214 1 2 95322 20150727114303
+190.129.184.253 1 2 95322 20150721222821
+161.22.134.87 1 2 95322 20150725094224
+190.129.210.155 1 2 306975 20150707143938
+181.114.125.164 1 2 95322 20150719174007
+181.115.129.35 1 2 95322 20150716164904
+190.129.127.112 1 2 95322 20150731084740
+181.114.126.143 1 2 95322 20150717141521
+181.114.110.12 1 2 95322 20150717204756
+190.180.81.108 1 2 95322 20150713095617
+132.251.234.27 1 1 353 20150712210805
+200.87.110.122 0 1 94969 
+181.115.128.61 1 2 95322 20150730143327
+161.22.133.153 1 1 353 20150725100653
+190.129.5.71 1 2 95322 20150726183744
+93.72.197.148 1 2 95322 20150711101629
+200.81.44.41 1 2 95322 20150721202424
+190.186.128.51 1 2 95322 20150713184323
+161.22.133.255 1 2 0 20150725110923
+52.7.109.152 1 1 752 20150721090302
+161.22.133.240 1 1 353 20150725094600
+190.129.92.58 1 1 353 20150716093430
+190.186.240.114 1 2 95322 20150722092651
+85.25.195.134 1 1 353 20150716051719
+157.55.39.151 0 1 11333 
+190.186.182.234 1 2 306975 20150708101745
+54.147.232.66 1 1 752 20150722145514
+58.62.163.132 1 2 95322 20150723030934
+181.114.125.163 1 1 0 20150722050556
+181.114.116.97 1 2 95322 20150717100542
+161.22.140.115 1 2 95322 20150713213609
+190.186.43.50 1 2 95322 20150720115428
+181.115.129.144 1 2 95322 20150714010917
+179.59.234.18 1 2 0 20150725101028
+66.249.16.212 1 1 353 20150710044728
+190.129.227.0 1 2 95322 20150722092548
+200.87.188.18 1 2 95322 20150724172128
+200.87.138.28 1 2 95322 20150715152946
+190.181.35.35 1 2 306975 20150707135941
+179.59.135.4 1 2 95322 20150718095115
+5.9.44.13 1 1 353 20150709052635
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20150701 43 94 3158137 8
+20150702 193 193 603841 4
+20150703 53 119 3338628 4
+20150706 7 10 924369 5
+20150707 7 15 1556734 6
+20150708 27 40 993588 6
+20150709 1 1 353 1
+20150710 8 13 478467 7
+20150711 4 8 381288 4
+20150712 1 1 353 1
+20150713 4 8 381288 4
+20150714 3 5 191396 3
+20150715 1 2 95322 1
+20150716 5 8 287071 5
+20150717 5 8 287470 4
+20150718 2 4 190644 2
+20150719 2 3 95322 2
+20150720 3 6 285966 3
+20150721 5 9 304279 5
+20150722 8 11 288974 6
+20150723 9 14 394785 9
+20150724 2 3 95675 2
+20150725 5 8 96028 5
+20150726 1 2 95322 1
+20150727 1 2 95322 1
+20150728 4 7 285966 4
+20150729 3 26 1291194 2
+20150730 3 6 285966 3
+20150731 4 8 381288 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 1
+5mn-15mn 3
+15mn-30mn 3
+30s-2mn 3
+0s-30s 100
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 391 888856 103 100
+/cpanel 10 28845 2 4
+/index.php 8 25893 7 6
+/fonts/Philadelphian-Gothic.otf 4 500112 0 1
+/js/ 1 599 0 1
+END_SIDER

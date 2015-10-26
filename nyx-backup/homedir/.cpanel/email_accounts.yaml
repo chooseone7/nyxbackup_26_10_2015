@@ -1,0 +1,16 @@
+--- 
+__version: '2.1'
+nyxelectric.com: 
+  account_count: 2
+  accounts: 
+    nyxelectric: 
+      disk_mtime: '1445892584'
+      diskquota: 52428800
+      diskused: 0
+    ventasnyxelectric: 
+      disk_mtime: '1445892584'
+      diskquota: 262144000
+      diskused: 0
+  disk_mtime: '1445892584'
+  passwd_mtime: '1445892584'
+  quota_mtime: '1445892584'

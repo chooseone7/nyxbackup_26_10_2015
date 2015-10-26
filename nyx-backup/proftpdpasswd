@@ -1,0 +1,5 @@
+marcjav:$6$LcY.OsCUL1./0iYZ$/xI7Bg12t/42gWWR7p882/WB4ROPsgaZshvvxYEWyiJH91bmdY4BS6YNRe5qykuXgFPR4v18wAepS5G7HosNe.:4607:4600:nyxelectric:/home/nyxelectric/public_html/marcjav:/bin/ftpsh
+marcjav7:$6$qM2luyPyNxLVFZqe$oiA0ew9aJpgxom2B2egpQIQY7eoGHwewVVT3dRP5vHBMAI5Z79vSdl2nXhvEe.CS5DQmS08ZYGh6Wv9QMbwNV/:4607:4600:nyxelectric:/home/nyxelectric/public_html:/bin/ftpsh
+nyxelectric:$6$DnYKrWdISIQ8V0MD$51MQg0EY23bT2Ig1dIqSuM4ZS2ToBIb2RkqVdZCGM3mXOdx23g9Va.YEFrLLiqInYxdQTeQVkvJgnFp/WDNYJ0:4607:4600::/home/nyxelectric:/bin/ftpsh
+ftp::14:50::/home/nyxelectric/public_ftp:/bin/ftpsh
+nyxelectric_logs:$6$DnYKrWdISIQ8V0MD$51MQg0EY23bT2Ig1dIqSuM4ZS2ToBIb2RkqVdZCGM3mXOdx23g9Va.YEFrLLiqInYxdQTeQVkvJgnFp/WDNYJ0:4607:4600:nyxelectric:/usr/local/apache/domlogs/nyxelectric:/bin/ftpsh

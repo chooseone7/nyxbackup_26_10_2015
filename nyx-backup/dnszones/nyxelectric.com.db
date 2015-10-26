@@ -1,0 +1,43 @@
+; cPanel first:11.48.1.2 (update_time):1434521622 11.48.1.2: Cpanel::ZoneFile::VERSION:1.3 hostname:primary.vivawebhost.com latest:11.48.4.4
+; Zone file for nyxelectric.com
+$TTL 14400
+@      86400	IN      SOA     ns1-fox.vivawebhost.com. juliobeizaga.hotmail.com. (
+		2015061700	; serial, todays date+todays
+		86400		; refresh, seconds
+		7200		; retry, seconds
+		3600000		; expire, seconds
+		86400 )		; minimum, seconds
+
+nyxelectric.com. 86400 IN NS ns1-fox.vivawebhost.com.
+nyxelectric.com. 86400 IN NS ns2-fox.vivawebhost.com.
+
+
+nyxelectric.com. IN A 174.136.57.146
+
+localhost.nyxelectric.com. IN A 127.0.0.1
+
+nyxelectric.com. IN MX 0 nyxelectric.com.
+
+mail IN CNAME nyxelectric.com.
+www IN CNAME nyxelectric.com.
+ftp IN A 174.136.57.146
+
+nyxelectric.com. IN TXT "v=spf1 +a +mx +ip4:174.136.57.8 ~all"
+cpanel IN A 174.136.57.146
+webdisk IN A 174.136.57.146
+whm IN A 174.136.57.146
+webmail IN A 174.136.57.146
+autoconfig IN A 174.136.57.146
+autodiscover IN A 174.136.57.146
+_autodiscover._tcp IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+default._domainkey IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDIwQmiASbcy451Rk6noE5fotaWIUhhbuoMogb3IL62kHZXF7sqxIZrbsDRR8yThpInzHQrQji6muyhIQXBta+JK3InnmiX0GXXspjfGDGtFzk9Hc+BgeWjNWTqtPnlWnfzCY3WPfU3JFg1RZIMQqN7qcrGrKMj8Y1n5cTVgQstpwIDAQAB;"
+cpcalendars IN A 174.136.57.146
+_caldav._tcp IN SRV 0 0 2079 fox.vivawebhost.com.
+_caldavs._tcp IN SRV 0 0 2080 fox.vivawebhost.com.
+_carddav._tcp IN SRV 0 0 2079 fox.vivawebhost.com.
+_carddavs._tcp IN SRV 0 0 2080 fox.vivawebhost.com.
+_caldav._tcp IN TXT path=/
+_caldavs._tcp IN TXT path=/
+_carddav._tcp IN TXT path=/
+_carddavs._tcp IN TXT path=/
+cpcontacts IN A 174.136.57.146

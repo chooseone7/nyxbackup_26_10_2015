@@ -1,0 +1,36 @@
+Return-path: <>
+Envelope-to: nyxelectric@fox.vivawebhost.com
+Delivery-date: Thu, 21 May 2015 11:14:01 -0400
+Received: from mailnull by fox.vivawebhost.com with local (Exim 4.85)
+	id 1YvSAb-00021y-Ez
+	for nyxelectric@fox.vivawebhost.com; Thu, 21 May 2015 11:14:01 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@fox.vivawebhost.com>
+To: nyxelectric@fox.vivawebhost.com
+Subject: Mail failure - malformed recipient address
+Message-Id: <E1YvSAb-00021y-Ez@fox.vivawebhost.com>
+Date: Thu, 21 May 2015 11:14:01 -0400
+
+A message that you sent contained one or more recipient addresses that were
+incorrectly constructed:
+
+  mensaje 20 mayo35: missing or malformed local part (expected word or "<")
+
+This address has been ignored. The other addresses in the message were
+syntactically valid and have been passed on for an attempt at delivery.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: nyxelectric@nyxelectric.com
+Subject: mensaje 20 mayo35
+X-PHP-Script: www.nyxelectric.com/sql/enviar-email.php for 190.181.12.141
+MIME-Version:1.0
+Content-type: text/html; charset=iso-8859-1
+ To:nyxelectric@nyxelectric.com 
+From: marcjav7@gmail.com
+Cc: mensaje 20 mayo35
+Subject: 65656561
+Message-Id: <E1YvSAb-00021w-Df@fox.vivawebhost.com>
+Date: Thu, 21 May 2015 11:14:01 -0400
+
+mensaje 20 mayo35

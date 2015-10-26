@@ -1,0 +1,455 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201506 will be lost/reset.
+# Last config file used to build this data file was /home/nyxelectric/tmp/awstats/awstats.nyxelectric.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2681                
+POS_VISITOR 9963                
+POS_DAY 11945               
+POS_DOMAIN 3454                
+POS_LOGIN 3796                
+POS_ROBOT 3951                
+POS_WORMS 4430                
+POS_EMAILSENDER 4561                
+POS_EMAILRECEIVER 4704                
+POS_SESSION 12620               
+POS_SIDER 12826               
+POS_FILETYPES 4839                
+POS_DOWNLOADS 5114                
+POS_OS 5162                
+POS_BROWSER 5475                
+POS_SCREENSIZE 6422                
+POS_UNKNOWNREFERER 6496                
+POS_UNKNOWNREFERERBROWSER 6719                
+POS_ORIGIN 6834                
+POS_SEREFERRALS 6973                
+POS_PAGEREFS 7137                
+POS_SEARCHWORDS 7366                
+POS_KEYWORDS 7533                
+POS_MISC 2345                
+POS_ERRORS 7609                
+POS_CLUSTER 3652                
+POS_SIDER_404 7726                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150701012835 83 18213 10163036983082
+FirstTime 0
+LastTime 20150630105958
+LastUpdate 20150701081329 83 0 82 0 0
+TotalVisits 70                  
+TotalUnique 34                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 191 195 638454 9 14 36198
+1 33 116 8641062 12 38 133066
+2 0 0 0 11 34 971295
+3 0 0 0 15 20 496627
+4 1 1 14621 40 51 141653
+5 1 1 4329 17 20 67330
+6 0 0 0 9 14 146861
+7 0 0 0 35 44 194159
+8 7 7 25633 19 38 308332
+9 71 192 7815356 42 132 361923
+10 59 288 8805341 9 82 469384
+11 47 247 8806038 196 272 1690563
+12 65 189 8970924 30 101 266696
+13 21 75 3524199 40 87 344380
+14 24 159 3753178 35 80 437504
+15 61 309 15997460 21 114 191011
+16 41 96 3587115 17 61 132351
+17 5 47 1351995 12 19 368598
+18 22 144 6025280 19 48 221487
+19 0 0 0 21 29 194853
+20 0 0 0 23 29 208510
+21 1 1 4755 16 51 1516286
+22 13 13 141980 19 25 69267
+23 1 1 4234 9 10 40618
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+bo 394 1714 68396894
+il 222 309 9249204
+us 37 47 373370
+cn 3 3 26629
+fr 3 3 23705
+br 2 2 28880
+ch 1 1 4234
+gb 1 1 4724
+at 1 1 4314
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 348 1730227 20150630162705 0
+spider 249 943313 20150630225732 0
+googlebot 153 496455 20150630140403 0
+crawl 44 444905 20150622235017 0
+bingpreview 25 1442980 20150604213056 0
+msnbot\-media 13 1415770 20150606085044 0
+robot 5 0 20150627205145 0
+googlebot\-image 3 367366 20150617205939 0
+no_user_agent 1 14211 20150629091822 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 227 414746 0 0
+png 97 426928 0 0
+ico 24 529906 0 0
+otf 41 4049363 0 0
+php 170 581441 0 0
+html 437 1758102 0 0
+js 234 1683087 0 0
+jpg 800 68318946 0 0
+jpeg 3 280761 0 0
+Unknown 16 46309 0 0
+gif 32 22365 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+linuxandroid 54 16
+blackberry 1 1
+macosx6 17 10
+winxp 19 15
+winlong 16 11
+win2003 8 2
+macosx9 47 31
+win8 24 17
+ios_ipad 68 13
+macosx7 14 9
+winnt 1 1
+linuxubuntu 3 3
+linux 34 24
+win7 235 126
+macosx 1475 333
+Unknown 15 15
+win8.1 24 19
+macosx8 26 18
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 49
+safari7.0 79 22
+firefox28.0 1 1
+msie6.0 1 1
+chrome40.0.2214.115 1 1
+chrome32.0.1700.72 4 3
+firefox26.0 61 43
+chrome12.0.742.91 4 2
+chrome28.0.1500.94 54 16
+chrome40.0.2214.111 4 3
+chrome32.0.1700.41 3 3
+chrome39.0.2171.95 11 11
+chrome31.0.1650.57 12 10
+chrome31.0.1650.63 64 36
+firefox34.0 1 1
+safari7.0.1 5 2
+msie11 5 4
+firefox24.0 9 8
+firefox31.0 7 5
+firefox6.0.2 2 2
+chrome43.0.2357.81 49 20
+msie7.0 8 2
+chrome37.0.2062.120 3 3
+msie9.0 10 5
+firefox27.0 10 8
+Unknown 1 1
+netscape 10 10
+blackberry 1 1
+chrome32.0.1700.68 4 3
+opera12.16 1 1
+firefox29.0 4 4
+firefox38.0 1475 333
+chrome41.0.2227.0 2 2
+chrome43.0.2357.130 35 7
+safari6.0.5 5 2
+msie11.0 44 15
+firefox33.0 4 4
+mozilla 4 4
+firefox25.0 10 6
+chrome35.0.1916.153 6 6
+netscape5.0 2 2
+firefox14.0.1 10 10
+msie10.0 9 7
+chrome25.0.1364.172 1 1
+firefox3.6.3 2 2
+safari5.1.9 4 2
+safari6.1.1 8 6
+firefox36.0 12 8
+safari6.1 13 10
+firefox27.3 6 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla 20150624160014
+Mozilla/6.0_(compatible) 20150630004621
+Python-urllib/2.7 20150608125026
+Mozilla/5.0_(compatible) 20150630004649
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Python-urllib/2.7 20150608125026
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 213 328
+From1 0 0
+From2 9 9
+From3 3 3
+From4 439 1741
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 8 8
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://pizza-tycoon.com 1 1
+http://burger-imperia.com 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+nyx+electric 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+electric 1
+nyx 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 3 3417
+206 23 1541868
+404 530 608440
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 34
+/img/imgproductos/interiores/0563.JPG 6 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0577.JPG 7 http://www.nyxelectric.com/
+/robots.txt 73 -
+/img/imgproductos/interiores/0560.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/423_10w.JPG 2 -
+/img/imgproductos/interiores/0701.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0559.JPG 9 http://www.nyxelectric.com/
+/img/imgproductos/SP26wr.JPG 2 -
+/img/imgproductos/SP3wSL.JPG 2 -
+/css/pantallagrande.css 239 http://www.nyxelectric.com/
+/img/imgproductos/SP6w.JPG 3 -
+/img/imgproductos/interiores/0696.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0463.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0699.JPG 2 http://www.nyxelectric.com/
+/img/imgproductos/interiores/BR1106w.JPG 2 http://nyxelectric.com/index.php
+/img/imgproductos/exteriores/0639.JPG 79 http://www.nyxelectric.com/
+/css/grabbing.png 2 http://www.nyxelectric.com/css/nyx.carousel.css
+/img/imgproductos/interiores/0569.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0526.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0547.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/B208.2w.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0531.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/REF100w.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0536.JPG 4 http://www.nyxelectric.com/
+/img/imgproductos/interiores/0705.JPG 3 http://www.nyxelectric.com/
+/img/imgproductos//0536.JPG 1 http://nyxelectric.com/index.php
+/img/imgproductos/exteriores/REF30W.JPG 2 http://nyxelectric.com/index.php
+/img/imgproductos/interiores/t.20w.JPG 1 -
+/img/imgproductos/interiores/T.30w.JPG 4 -
+/contactos.php 1 -
+/img/imgproductos/0283.JPG 2 -
+/img/imgproductos/interiores/0289.JPG 1 -
+/img/imgproductos/exteriores/REF10W.JPG 52 http://www.nyxelectric.com/
+/wp-login.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+82.80.249.167 221 225 715264 20150630012003
+186.121.248.12 116 398 17595990 20150630105958
+190.181.12.30 66 234 10980155 20150606124218
+190.181.12.135 48 154 5143950 20150610163607
+186.121.248.34 44 365 11352713 20150608155928
+186.121.248.83 33 193 6622090 20150603181927
+190.181.12.215 24 116 3582371 20150624154644
+64.79.100.52 20 20 70123 20150624160014
+190.181.12.209 18 75 4444191 20150617093215
+190.181.21.63 12 45 3523148 20150616093225
+190.181.21.217 12 33 462340 20150619133029
+69.58.178.57 11 11 133602 20150617220127
+190.186.106.200 7 35 1520325 20150625112642
+190.181.21.64 6 20 1498646 20150613125423
+200.87.17.42 5 33 1604875 20150602180855
+38.100.21.64 2 8 78367 20150611164347
+190.181.12.61 2 12 61771 20150609122455
+176.10.99.202 1 1 4234 20150628230618
+179.104.211.128 1 1 14440 20150620124205
+62.219.8.233 1 1 4049 20150629221652
+202.46.48.192 1 1 4234 20150628081710
+89.234.157.254 1 1 4329 20150610222522
+54.158.169.248 1 1 14440 20150622095442
+192.240.208.177 1 1 3065 20150610094351
+202.46.52.201 1 1 4234 20150626130126
+82.80.249.227 0 7 614509 
+157.55.39.100 0 3 46173 
+82.80.249.216 0 3 187487 
+82.80.249.219 0 5 527779 
+82.80.249.228 0 8 793441 
+82.80.249.229 0 1 107258 
+157.55.39.46 0 1 7664 
+82.80.234.142 0 3 444003 
+187.74.89.90 1 1 14440 20150622013008
+213.47.217.101 1 1 4314 20150619003056
+82.80.249.225 0 5 342729 
+62.210.37.113 1 1 4755 20150606215732
+82.80.249.220 0 5 466574 
+82.80.249.218 0 2 304527 
+82.80.249.221 0 8 897612 
+91.121.100.66 1 1 14621 20150628043556
+82.80.249.215 0 4 458700 
+82.80.249.223 0 3 294661 
+209.126.110.112 1 1 4329 20150611051906
+54.197.98.210 1 1 15607 20150605005214
+185.44.77.193 1 1 4724 20150607092438
+82.80.249.224 0 6 759094 
+120.25.218.70 1 1 18161 20150608125026
+186.121.248.122 1 1 4329 20150609104125
+82.80.249.178 0 7 798203 
+82.80.249.177 0 9 888022 
+82.80.249.222 0 1 111546 
+82.80.249.217 0 3 221614 
+82.80.244.57 0 3 312132 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20150601 4 4 12287 2
+20150602 8 62 3080265 3
+20150603 26 160 5134413 4
+20150605 1 1 15607 1
+20150606 67 235 10984910 3
+20150607 1 1 4724 1
+20150608 45 366 11370874 3
+20150609 8 53 1121793 3
+20150610 45 116 4095651 5
+20150611 3 9 82696 2
+20150612 4 18 1489988 2
+20150613 2 2 8658 2
+20150616 28 118 7837997 3
+20150617 13 13 262944 2
+20150618 6 15 221442 2
+20150619 7 19 245212 4
+20150620 1 1 14440 1
+20150622 11 45 875967 3
+20150623 2 2 6332 2
+20150624 33 91 2799075 4
+20150625 29 178 11799052 4
+20150626 22 124 2472770 4
+20150627 24 63 2162437 2
+20150628 3 3 23089 3
+20150629 28 36 974977 3
+20150630 243 346 11014354 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 7
+0s-30s 37
+30s-2mn 2
+2mn-5mn 1
+15mn-30mn 8
+30mn-1h 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 437 1758102 63 50
+/index.php 168 580275 3 11
+/fonts/Philadelphian-Gothic.otf 41 4049363 0 7
+/cpanel 16 46309 4 2
+/sql/buscador.php 2 1166 0 0
+END_SIDER

@@ -1,0 +1,199 @@
+body{
+	background-color:#1e5799;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+#salir_session{
+color:#fff;
+display:block;
+margin-left:2em;
+position:absolute;
+}
+h2#usuario{
+	color:#fff;
+}
+h3 a#inicio{
+ color:#fff;
+ display:inline-block;
+ margin-left:22em;
+ position:absolute;
+}
+table#table_actualizar{
+	margin:auto;
+	text-align:center;
+}
+div#envoltorio_alta_producto{
+background:#ccc;
+display:inline-block;
+text-align:center;
+}
+img.logo_producto{
+	/*width:10%;*/
+	margin-top:-2em;
+	margin-left:65em;
+	position:absolute;
+}
+.cambio{
+	width:6.8em;
+}
+form#actualizar_producto td{
+	background:red;
+	position:absolute;
+	width:6.9em;
+}
+
+div#envoltorio_contenido_productoabm{
+margin-left:0em;
+}
+nav#producto_abm  {
+background:#ccc;
+margin-top:2px;
+position:relative;
+text-align:center;
+
+}
+nav#producto_abm ul{
+
+text-decoration:none;
+}
+nav#producto_abm ul li{
+font-size:1.2em;
+margin-right:1em;
+text-decoration:none;
+display:inline;
+}
+div#envoltorio_contenido_productoabm form#frm-producto{
+	background:#ccc;
+	position:absolute;
+	text-align:center;
+	
+}
+div#envoltorio_contenido_productoabm form#frm-producto{
+    text-align:center;
+}
+
+table.tabla_producto{
+	background:#f7f2f2;
+	
+	border-radius:0.4em;
+	 -ms-border-radius:0.4em;
+	 -webkit-border-radius:0.4em;
+	 -moz-border-radius:0.4em;
+	 -o-border-radius:0.4em;
+		 display:inline-block;
+	
+
+}
+	button#mostrar_todo_producto{
+	background: rgb(255,255,255); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(241,241,241,1) 50%, rgba(225,225,225,1) 51%, rgba(246,246,246,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(241,241,241,1)), color-stop(51%,rgba(225,225,225,1)), color-stop(100%,rgba(246,246,246,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
+
+	border-radius:0.4em;
+	-ms-border-radius:0.4em;
+	 -webkit-border-radius:0.4em;
+	 -moz-border-radius:0.4em;
+	 -o-border-radius:0.4em;
+	
+	height:3em;
+	margin-left:46em;
+	margin-bottom:2em;
+	text-align:center;
+
+}
+	button#mostrar_todo_producto:hover{
+	 font-size:0.8em;
+	}
+
+	table.tabla_producto tr td input[type='text'].formatear_mostrar_tabla{
+	width:5em;
+	}
+	 table.tabla_producto tr td input[type='text'].hrs,table.tabla_producto tr td input[type='text'].watt{
+		width:4.5em;
+	}
+	table.tabla_producto tr td select.cod_tipo_producto{
+		width:4.5em;
+	}
+	table.tabla_producto tr td, table.tabla_producto tr th{
+	background:#ccc;
+	width:2em;
+	}
+	
+h2#titulo_alta_producto{
+	background:#ccc;
+	border-radius:0.3em;
+	color:#000;
+	display:inline;
+}
+div#limpiar_titulo{
+	margin-bottom:0em;
+}
+form#alta-producto{
+	background:#ccc;
+margin:auto;
+text-align:center;
+width:60%
+}
+th {
+    background-color: #ddd;
+    padding: 5px 0;
+}
+ fieldset#producto_abm_fieldset{
+	border-radius:0.4em;
+	width:20em;
+}
+div.centrar-form-productos fieldset div#centrar-form-productos label{
+	font-size:2em;
+	
+}
+div.centrar-form-productos input[type="text"]{
+	border-radius:0.4em;
+		-moz-border-radius:0.4em;
+		-webkit-border-radius:0.4em;
+		-o-border-radius:0.4em;
+		-ms-border-radius:0.4em;
+	margin:0.7em;
+}
+div.centrar-form-productos input[type="text"]#material{
+	margin-left:1.4em;
+}
+div.centrar-form-productos input[type="text"]#lamp_size{
+	margin-left:0em;
+}
+div.centrar-form-productos input[type="text"]#watt{
+	margin-left:2.3em;	
+	margin-bottom:1em;
+}
+div.centrar-form-productos input[type="text"]#hrs{
+	margin-left:2.3em;	
+	margin-bottom:1em;
+}
+div.centrar-form-productos textarea#descripcion{
+	margin-right:0em;
+	margin-bottom:1em;
+}
+div.centrar-form-productos select#cod_categoria{
+	margin-bottom:2em;
+	margin-left:2em;
+}
+div.centrar-form-productos select#cod_tipo_producto{
+	margin-bottom:2em;
+	
+}
+
+div.centrar-form-productos textarea#descripcion{
+	margin-left:2em;
+	vertical-align:top;
+}
+div.centrar-form-productos input[type="file"]#image1,div.centrar-form-productos input[type="file"]#image2{
+	background:#fff;
+	border:1px solid #212121;
+	margin-top:1em;
+	margin-bottom:1em;
+}

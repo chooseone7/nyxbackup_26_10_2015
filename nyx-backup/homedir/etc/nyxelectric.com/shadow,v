@@ -1,0 +1,115 @@
+head	1.7;
+access;
+symbols;
+locks
+	nyxelectric:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2015.07.07.19.45.13;	author nyxelectric;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2015.07.07.19.45.13;	author nyxelectric;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2015.04.22.21.40.35;	author nyxelectric;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2015.04.22.21.39.55;	author nyxelectric;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2015.04.22.21.39.55;	author nyxelectric;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.03.17.19.46.58;	author nyxelectric;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.03.17.19.46.58;	author nyxelectric;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@nyxelectric:$6$9ebeFZyYYnzLVdvg$/lnOUvBCaOj43fedkMtIcaY/vJ5WjVpUyIPOrK5NLBrrbSFpo5pqtDBb9Agz6/KDZGZt4PhvCZcjK8FGMwX4m/:16547::::::
+ventasnyxelectric:$6$dSs7NguMOAK0R85J$iLZPQiZRp5HHWyVBxaQtTOYjiNB27g/tIXeVvwMrdq9hmWzWVHcRWlLSWZGIEU5yX4Vy76ysYRtB3Cw6jm53C.:16623::::::
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+nyxelectric:$6$mFr2uThC832.MVL3$ltTxrtYpJf7O.ofCITE9qce.S3zp88HQnOFZNs7neZ75J8B8..jUxUjD5u799/mFtcLNBMtU0SGhfFN1d4gZ2/:16547::::::
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+nyxelectrix:$6$6DncSN42CL3bFVCS$eMx5QOO6rp3kdhH0UxsBuljxvUSeQB93AMhmKB/rMTqeDnZmAxEuNS4oOPRA18tN7f1K0UwogyiPITzJPo0BC/:16511::::::
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+nyxelectrix:$6$wsoKDx4SWsFuy5z2$k3nR3PIqGLw4clCp4bKyVLHadKemKWpAE0qTXR1hCcXzRfkE6uOnmk/WWB2wNcEQ63SEJTzf4YorADZaIkXL30:16511::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@
